@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leona\\Desktop\\PARCIAL\\parcial\\parcial.csproj": {}
+    "C:\\Users\\leona\\Desktop\\PARCIAL\\parcial_\\parcial_.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leona\\Desktop\\PARCIAL\\parcial\\parcial.csproj": {
+    "C:\\Users\\leona\\Desktop\\PARCIAL\\parcial_\\parcial_.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leona\\Desktop\\PARCIAL\\parcial\\parcial.csproj",
-        "projectName": "parcial",
-        "projectPath": "C:\\Users\\leona\\Desktop\\PARCIAL\\parcial\\parcial.csproj",
+        "projectUniqueName": "C:\\Users\\leona\\Desktop\\PARCIAL\\parcial_\\parcial_.csproj",
+        "projectName": "parcial_",
+        "projectPath": "C:\\Users\\leona\\Desktop\\PARCIAL\\parcial_\\parcial_.csproj",
         "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leona\\Desktop\\PARCIAL\\parcial\\obj\\",
+        "outputPath": "C:\\Users\\leona\\Desktop\\PARCIAL\\parcial_\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config"

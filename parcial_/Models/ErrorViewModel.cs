@@ -1,4 +1,4 @@
-namespace parcial.Models;
+namespace parcial_.Models;
 
 public class ErrorViewModel
 {
